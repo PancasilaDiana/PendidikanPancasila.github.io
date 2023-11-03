@@ -1,0 +1,13 @@
+*, html, body{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    background-color: antiquewhite;
+}
+
+.contain{
+    background-color: antiquewhite;
+    color: white;
+}
